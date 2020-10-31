@@ -1,0 +1,2 @@
+# graylog
+Install instruction
